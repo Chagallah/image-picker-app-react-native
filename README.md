@@ -1,3 +1,6 @@
+### Differences from original repo:
+1) android/build.gradle has some different settings mainly for my macbook air and old version of RN
+
 # React Native Image Picker
 
 [![npm version](https://badge.fury.io/js/react-native-image-picker.svg)](https://badge.fury.io/js/react-native-image-picker)
